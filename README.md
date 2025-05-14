@@ -17,4 +17,13 @@ Atualmente, estou explorando outras tecnologias e linguagens de programação qu
 
 ---
 
+![image](https://github.com/user-attachments/assets/70f088d8-4b73-4597-b4d8-8613d7478a3e)
+
+---
+
+![image](https://github.com/user-attachments/assets/ef07ff41-4b93-42d6-af15-a279dbbb1368)
+
+---
+
+
 Sinta-se à vontade para explorar o código e fornecer feedback!
