@@ -13,7 +13,7 @@ Apesar das dificuldades, o projeto proporcionou um entendimento prático dos con
 
 **Próximos Passos:**
 
-Atualmente, estou explorando outras tecnologias e linguagens de programação que ofereçam maior flexibilidade e poder para o desenvolvimento de aplicações mais complexas e eficientes. Meu foco agora está em aprimorar minhas habilidades em [Python, JavaScript, Java, Php, frameworks web e APIs].
+Atualmente, estou explorando outras tecnologias e linguagens de programação que ofereçam maior flexibilidade e poder para o desenvolvimento de aplicações mais complexas e eficientes. Meu foco agora está em aprimorar minhas habilidades em **Python, JavaScript, Java, Php, frameworks web e APIs**.
 
 ---
 
